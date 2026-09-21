@@ -37,7 +37,7 @@ export const photographyCategories = [
     packageInfo:
       "Age-appropriate sets, playful props, and guidance for natural, joyful expressions.",
     image:
-      "https://images.unsplash.com/photo-1544126592-807adefc5210?w=900&q=80",
+      "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=900&q=80",
   },
   {
     id: "birthday" as const,
@@ -87,7 +87,7 @@ export const photographyCategories = [
     packageInfo:
       "Flattering light, thoughtful posing, and serene studio setups for expecting parents.",
     image:
-      "https://images.unsplash.com/photo-1493894473891-10fc1e36d374?w=900&q=80",
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=900&q=80",
   },
   {
     id: "portraits" as const,
@@ -116,7 +116,7 @@ export const partyPackages = [
     description:
       "Intimate gatherings for family milestones, playdates, and special children’s occasions.",
     image:
-      "https://images.unsplash.com/photo-1464349153736-12acf9046d5b?w=900&q=80",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
   },
   {
     id: "indoor",
@@ -132,7 +132,7 @@ export const partyPackages = [
     description:
       "Fresh-air celebrations when the occasion calls for open space and outdoor energy.",
     image:
-      "https://images.unsplash.com/photo-1527529482837-4698179dc7ce?w=900&q=80",
+      "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=900&q=80",
   },
   {
     id: "kids-club",
@@ -163,7 +163,7 @@ export const studioBackdrops = [
   {
     title: "Soft Neutral Studio",
     image:
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff7d?w=900&q=80",
+      "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=900&q=80",
   },
   {
     title: "Pastel Play Set",
@@ -208,7 +208,7 @@ export const galleryItems: {
   },
   {
     id: "2",
-    src: "https://images.unsplash.com/photo-1544126592-807adefc5210?w=900&q=80",
+    src: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=900&q=80",
     alt: "Baby photography session",
     category: "babies",
   },
@@ -221,7 +221,7 @@ export const galleryItems: {
   },
   {
     id: "4",
-    src: "https://images.unsplash.com/photo-1493894473891-10fc1e36d374?w=900&q=80",
+    src: "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=900&q=80",
     alt: "Maternity photography",
     category: "maternity",
   },
@@ -240,7 +240,7 @@ export const galleryItems: {
   },
   {
     id: "7",
-    src: "https://images.unsplash.com/photo-1492684223066-81342ee5ff7d?w=900&q=80",
+    src: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=900&q=80",
     alt: "Studio photography space",
     category: "studio",
   },
@@ -272,7 +272,7 @@ export const galleryItems: {
   },
   {
     id: "12",
-    src: "https://images.unsplash.com/photo-1527529482837-4698179dc7ce?w=900&q=80",
+    src: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=900&q=80",
     alt: "Outdoor kids celebration",
     category: "birthdays",
   },
@@ -285,7 +285,7 @@ export const galleryItems: {
   },
   {
     id: "14",
-    src: "https://images.unsplash.com/photo-1464349153736-12acf9046d5b?w=900&q=80",
+    src: "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
     alt: "Party table setup",
     category: "parties",
   },
@@ -348,7 +348,7 @@ export const heroImages = [
     alt: "Kids party celebration",
   },
   {
-    src: "https://images.unsplash.com/photo-1544126592-807adefc5210?w=1200&q=80",
+    src: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=1200&q=80",
     alt: "Baby studio session",
   },
 ];

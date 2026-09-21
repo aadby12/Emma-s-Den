@@ -33,7 +33,7 @@ const pillars = [
     cta: "Rent the Studio",
     icon: Building2,
     image:
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff7d?w=900&q=80",
+      "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=900&q=80",
     tint: "from-[color-mix(in_oklab,var(--sky)_40%,transparent)]",
   },
 ];
